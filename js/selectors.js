@@ -1,4 +1,4 @@
 'use-strict';
-function h1Selector(h1) {
-  
+function h1Selector() {
+  return $(h1)
 }
